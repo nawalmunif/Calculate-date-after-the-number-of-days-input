@@ -1,5 +1,5 @@
 # Calculate-date-after-the-number-of-days-input
-It is written in C++.
+It is written in C++ using DEV software.
 It is a basic program for C++ OOP learners.
 The calculator
 repeatedly reads in three numbers (in a line) from the standard input that is interpreted as
